@@ -1,5 +1,7 @@
 <?php
 
+// controller to register or login using passport 
+
 namespace App\Http\Controllers\Api;
 
 use App\User;

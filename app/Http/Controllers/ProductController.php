@@ -88,7 +88,7 @@ class ProductController extends Controller
       
         $product->update($request->all());
         echo "update done";
-        return $product;
+        return $request;
            
     }
 
